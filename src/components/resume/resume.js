@@ -25,7 +25,7 @@ export default class resume extends Component {
             <div className="row item">
                 <div className="twelve columns">
                 <h3>Camilo Ponce Enriquez</h3>
-                <p className="info">B.A. Degree in Graphic Design <span>•</span> <em className="date">Septiembre 2002</em></p>
+                <p className="info">Bachillerato en Ciencias <span>•</span> <em className="date">Septiembre 2002</em></p>
                 <p>
                     Como ha afirmado Lidia Fernández, la relación de la escuela con el medio es uno de los aspectos más destacados como "deber ser" pedagógico, la escuela cumple un mandato social general, asociado con su génesis. Por un lado, la ubicación en el espacio muestra el grado de conexión o retraimiento de la institución y su medio inmediato respecto de los centros en los que se concentra el poder social e institucional. Por otro, la ubicación socio histórica permite conocer los fines sociales y los objetivos que se espera cumplir al tiempo que permite comprender las características del "mandato social" que pesa sobre la institución redefiniendo su cultura (Fernández, 1998, p. 82).
                 </p>
